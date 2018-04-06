@@ -6,3 +6,5 @@ This script generate waves in blender. You can change water velocity, wavelength
 This script based on Real-Time Deep Ocean Simulation By Adam Lake (Intel).
 
 https://software.intel.com/en-us/articles/real-time-deep-ocean-simulation-on-multi-threaded-architectures
+
+![alt text](https://github.com/AndreiPelenoff/blender-water-scripts/blob/master/generated_waves.jpg?raw=true)
